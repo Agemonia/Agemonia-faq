@@ -204,9 +204,7 @@ To ask additional questions check out the [BGG Forums](https://boardgamegeek.com
 
 **Do all pets have a figure/standee?** No, some pets are simply item cards (thematically these pets are just held on your Hero’s shoulder), while others have a figure which can be placed on the map and moved around (the pets with a figure will have a corresponding standee shown on the pet card).
 
-**Are pets considered items for the purpose of not being able to pick them up while hindered or non-transferable with an ability like telekinesis?** Yes, pets are items therefore a Hero is not able to pick them up or transfer them with telekinesis while hindered. Confirm?
-
-**Can pet figures be picked up while hindered?** Yes, while being hindered restricts picking up items, it does not restrict picking up a pet figure. Confirm?
+**Can pet figures be placed or picked up while hindered?** Yes, being hindered does not restrict placing or picking up a pet figure. However being hindered does restrict trading a pet item to another Hero in the same location. 
 
 **Can you start a move maneuver, then place a pet on the map and move it, and pick it up and then continue the move maneuver (for example, to scout a story point before choosing to move there or continue somewhere else)?** Yes, the rules do not specify you must finish your current action or maneuver prior to placing, picking up, or moving your pet.
 
