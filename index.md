@@ -369,6 +369,7 @@ To ask additional questions check out the [BGG Forums](https://boardgamegeek.com
 <summary><b>Scenario 5</b></summary>
 <p><b>Can Heroes pick up Nightfinger mushrooms during their move maneuvers?</b> - Yes, you can pick them up in the middle of your move, and then continue that movement.</p>
 <p><b>Will the Zlohian enemies focus more on the Nightfinger mushrooms than the Allies? If the enemy is in the same area as an Ally, will it still move towards the closest Nightfinger? Does it attack first then move?</b> - Moving always happens before attacking, and its number one priority is the closest Nightfinger mushroom, therefore the enemy will move first towards the closest Nightfinger, potentially moving away from an Ally. After moving, the enemy will attack only if there’s still an Ally within attack range.</p>
+<p><b>At the end of the scenario, <span class="hidden">does a Mushroom that's halfway on the Befriending a Gric storycard count as being successfully gathered?</span></b> - <span class="hidden">No.</span></p>	
 </details>
 <br>
 
@@ -693,6 +694,8 @@ Initiative card is revealed, you may spend 1 stamina to change your Initiative t
 
 **Guardian of Light (lvl 3):** <span class="hidden">**Does this add +1 heal to items, item tokens, and weapon gems that Lunara uses?** Yes, this passive ability affects any healing ability that Lunara uses, so even item cards like 032 Healing Potion and 044 Scroll of Healing get the +1 heal bonus.</span>
 
+**Consecrate (lvl 3 Paladin):** <span class="hidden">**If the Consecrate token is placed on a moving tile like a Tussock or Floating Rock, will the token move with it?** Yes.</span>
+
 **Redemption (Paladin skill):** <span class="hidden">**Does this add +1 range and +1 success to Lunara’s Boon of Aiun?** Yes (added in errata).</span>
 
 **Character specific item when reaching level 4:** <span class="hidden">**The other characters all receive a new character specific item upon hitting level 4, but it seems Lunara does not. Why not?** Have patience, Lunara will unlock hers during level 4.</span>
@@ -704,6 +707,8 @@ Initiative card is revealed, you may spend 1 stamina to change your Initiative t
 **Pounce (Ravager board): Can you jump before or after the attack?** Yes, you attack and jump in any order. 
 
 **Pounce (Ravager board): Can you jump 2 even if you don’t use the attack?** Yes.
+
+**Healing Wave (lvl 2): Does this also heal Garuk?** No, only other Allies (Garuk is not considered in line of sight of himself).
 
 ### <a name="page_10.9" class="page-number">10.9</a> Xir
 
