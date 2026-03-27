@@ -722,7 +722,7 @@ Initiative card is revealed, you may spend 1 stamina to change your Initiative t
 
 ##  <a name="page_12" class="page-number">12</a> Crowdfunding campaign: Witches of Durgane & The Breach
 
-**When does the crowdfunding campaign for the expansions begin?** There hasn't been an official release date yet, but sometime in 2026. 
+**When does the crowdfunding campaign for the expansions begin?** There hasn't an exact release date yet, but the campaign [Update #3](https://gamefound.com/en/projects/lautapelit/agemonia-expansions-witches-of-durgane--the-breach/updates/3) confirmed the launch will be in Q3 2026.
 
 **Will the base game be available for purchase during the upcoming campaign?** There hasn't been any official information about this yet, but earlier campaigns have included the option to purchase the base game along with small add-ons, such as metal coins, plastic chips, extra dice, and Talents & Rituals. We also expect to see the previous mini-expansion New Heroes, and potentially some errata fix packs. Although unconfirmed, these are all likely candidates.
 
