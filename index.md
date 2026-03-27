@@ -32,7 +32,8 @@ This is an unofficial FAQ created with a collection of questions gathered from B
    1. <a href="#page_10.8">Garuk</a>
    1. <a href="#page_10.9">Xir</a>
 1. <a href="#page_11">Puzzle Book</a>
-1. <a href="#page_12">Crowdfunding campaign: Witches of Durgane & The Breach Expansions</a>
+1. <a href="#page_12">Components and Errata</a>
+1. <a href="#page_13">Crowdfunding campaign: Witches of Durgane & The Breach Expansions</a>
 
 <div class="divider"></div>
 
@@ -321,6 +322,8 @@ To ask additional questions check out the [BGG Forums](https://boardgamegeek.com
 ## <a name="page_9" class="page-number">9.0</a> Scenarios:
 
 ### <a name="page_9.1" class="page-number">9.1</a> Scenarios (General):
+
+**I seem to be missing scenario cards for scenarios 12, 18, 27, and/or 36?** There are no scenario cards for those four scenarios as they are Arena scenarios. All of their cards are under the same "Arena" cards.
 
 **Some scenario cards contain a symbol with the letters A/B/C/D/E in the Journey steps. What are those?** These are special locations (shown on the Campaign map as A/B/C/D/E symbols). Special locations have ongoing plots and storylines which advance each time you visit the special location.
 
@@ -720,7 +723,17 @@ Initiative card is revealed, you may spend 1 stamina to change your Initiative t
 
 <div class="divider"></div>
 
-##  <a name="page_12" class="page-number">12</a> Crowdfunding campaign: Witches of Durgane & The Breach
+##  <a name="page_12" class="page-number">12</a> Components and Errata
+
+**My game seems to be missing tokens/cards**: Check first for common misunderstandings. There are no Cursed, Blessed, and Invisible tokens. Also there is no scenario cards for scenarios 12, 18, 27, and 36. These are explained elsewhere in this FAQ. If you are still sure there's something wrong with your game, contact info@lautapelit.fi.
+
+**My scenario or rulebook seems to have an error**: Some errors have been noticed after production and are fixed in future printings. They are collected in [Errata documents](https://agemonia.com/resources/) on Agemonia website. There is also  [Printable Errata Stickers](https://boardgamegeek.com/filepage/278527/printable-errata-stickers) that you can use.
+
+**My game arrived with a broken/misprinted component**: Contact info@lautapelit.fi.
+
+<div class="divider"></div>
+
+##  <a name="page_13" class="page-number">13</a> Crowdfunding campaign: Witches of Durgane & The Breach
 
 **When does the crowdfunding campaign for the expansions begin?** There hasn't an exact release date yet, but the campaign [Update #3](https://gamefound.com/en/projects/lautapelit/agemonia-expansions-witches-of-durgane--the-breach/updates/3) confirmed the launch will be in Q3 2026.
 
