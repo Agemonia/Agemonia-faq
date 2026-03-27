@@ -726,7 +726,7 @@ Initiative card is revealed, you may spend 1 stamina to change your Initiative t
 
 **My game seems to be missing Condition tokens for Cursed, Blessed and Invisible:** There are no Cursed, Blessed, and Invisible tokens, only Condition cards (there are Condition tokens only for the conditions that affect enemies).
 
-**I seem to be missing Story decks and Enemy cards for Arena scenarios 12, 18, 27, and/or 36?** There are no scenario specific Story decks for these four scenarios. All of the Enemy cards can be found under the same "Arena" Story deck.
+**I seem to be missing Story decks and Enemy cards for Arena scenarios 12, 18, 27, and/or 36:** There are no scenario specific Story decks for these four scenarios. All of the Enemy cards can be found under the same "Arena" Story deck.
 
 **My scenario, rulebook or card seems to have an error:** Some errors have been noticed after production and are fixed in future printings. They are collected in [Errata documents](https://agemonia.com/resources/) on Agemonia website. There is also [Printable Errata Stickers](https://boardgamegeek.com/filepage/278527/printable-errata-stickers) that you can use.
 
