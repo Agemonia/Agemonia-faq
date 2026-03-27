@@ -32,7 +32,7 @@ This is an unofficial FAQ created with a collection of questions gathered from B
    1. <a href="#page_10.8">Garuk</a>
    1. <a href="#page_10.9">Xir</a>
 1. <a href="#page_11">Puzzle Book</a>
-1. <a href="#page_12">Components and Errata</a>
+1. <a href="#page_12">Components & Errata</a>
 1. <a href="#page_13">Crowdfunding campaign: Witches of Durgane & The Breach Expansions</a>
 
 <div class="divider"></div>
@@ -721,7 +721,7 @@ Initiative card is revealed, you may spend 1 stamina to change your Initiative t
 
 <div class="divider"></div>
 
-##  <a name="page_12" class="page-number">12</a> Components and Errata
+##  <a name="page_12" class="page-number">12</a> Components & Errata
 
 **My game seems to be missing Condition tokens for Cursed, Blessed and Invisible.**: There are no Cursed, Blessed, and Invisible tokens, only Condition cards (there are Condition tokens only for the conditions that affect enemies).
 
@@ -733,7 +733,7 @@ Initiative card is revealed, you may spend 1 stamina to change your Initiative t
 
 <div class="divider"></div>
 
-##  <a name="page_13" class="page-number">13</a> Crowdfunding campaign: Witches of Durgane & The Breach
+##  <a name="page_13" class="page-number">13</a> Crowdfunding Campaign: Witches of Durgane & The Breach
 
 **When does the crowdfunding campaign for the expansions begin?** There hasn't an exact release date yet, but the campaign [Update #3](https://gamefound.com/en/projects/lautapelit/agemonia-expansions-witches-of-durgane--the-breach/updates/3) confirmed the launch will be in Q3 2026.
 
