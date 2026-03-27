@@ -50,6 +50,7 @@ The official errata documents for all 3 printings can be found here: [Agemonia R
 To ask additional questions check out the [BGG Forums](https://boardgamegeek.com/boardgame/270871/agemonia/forums/0) and the [Agemonia Discord](https://discord.com/invite/6QwMXYq). There's also lots of great stuff in the [BGG Files](https://boardgamegeek.com/boardgame/270871/agemonia/files).
 ### Special Thanks
 - Thank you to Max Wikström, Phil Pettifer and the rest of the Agemonia team for being so active and answering questions on BGG and Discord.
+- Thank you Zachu for helping with Github and submitting new entries.
 - Huge thanks to Bill (dwarf74/dwarfSA) for his amazing [Frosthaven FAQ](https://cephalofairgames.github.io/frosthaven-faq) which inspired me to create this for Agemonia.
 
 <div class="divider"></div>
@@ -723,13 +724,13 @@ Initiative card is revealed, you may spend 1 stamina to change your Initiative t
 
 ##  <a name="page_12" class="page-number">12</a> Components & Errata
 
-**My game seems to be missing Condition tokens for Cursed, Blessed and Invisible.**: There are no Cursed, Blessed, and Invisible tokens, only Condition cards (there are Condition tokens only for the conditions that affect enemies).
+**My game seems to be missing Condition tokens for Cursed, Blessed and Invisible:** There are no Cursed, Blessed, and Invisible tokens, only Condition cards (there are Condition tokens only for the conditions that affect enemies).
 
 **I seem to be missing Story decks and Enemy cards for Arena scenarios 12, 18, 27, and/or 36?** There are no scenario specific Story decks for these four scenarios. All of the Enemy cards can be found under the same "Arena" Story deck.
 
-**My scenario or rulebook seems to have an error**: Some errors have been noticed after production and are fixed in future printings. They are collected in [Errata documents](https://agemonia.com/resources/) on Agemonia website. There is also  [Printable Errata Stickers](https://boardgamegeek.com/filepage/278527/printable-errata-stickers) that you can use.
+**My scenario, rulebook or card seems to have an error:** Some errors have been noticed after production and are fixed in future printings. They are collected in [Errata documents](https://agemonia.com/resources/) on Agemonia website. There is also [Printable Errata Stickers](https://boardgamegeek.com/filepage/278527/printable-errata-stickers) that you can use.
 
-**My game arrived with a broken/misprinted/missing component**: Please contact info@lautapelit.fi.
+**My game arrived with a broken/misprinted/missing component:** Please contact info@lautapelit.fi.
 
 <div class="divider"></div>
 
