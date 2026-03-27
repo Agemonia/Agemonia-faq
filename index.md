@@ -322,6 +322,8 @@ To ask additional questions check out the [BGG Forums](https://boardgamegeek.com
 
 ### <a name="page_9.1" class="page-number">9.1</a> Scenarios (General):
 
+**I seem to be missing scenario cards for scenarios 12, 18, 27, and/or 36?** There are no scenario cards for those four scenarios as they are Arena scenarios. All of their cards are under the same "Arena" cards.
+
 **Some scenario cards contain a symbol with the letters A/B/C/D/E in the Journey steps. What are those?** These are special locations (shown on the Campaign map as A/B/C/D/E symbols). Special locations have ongoing plots and storylines which advance each time you visit the special location.
 
 **Is the Scenario Setup rules, what are the 3+ or 4 icons on the map?** These refer to the amount of enemies that spawn at different player counts at different spots on the map. At 2 players, ignore all the 3+ and 4 spots. At 3 players use the 3+ but ignore the 4s. At 4 players, you use all the spots.
