@@ -32,7 +32,8 @@ This is an unofficial FAQ created with a collection of questions gathered from B
    1. <a href="#page_10.8">Garuk</a>
    1. <a href="#page_10.9">Xir</a>
 1. <a href="#page_11">Puzzle Book</a>
-1. <a href="#page_12">Crowdfunding campaign: Witches of Durgane & The Breach Expansions</a>
+1. <a href="#page_12">Non-gameplay related</a>
+1. <a href="#page_13">Crowdfunding campaign: Witches of Durgane & The Breach Expansions</a>
 
 <div class="divider"></div>
 
@@ -722,9 +723,19 @@ Initiative card is revealed, you may spend 1 stamina to change your Initiative t
 
 <div class="divider"></div>
 
-##  <a name="page_12" class="page-number">12</a> Crowdfunding campaign: Witches of Durgane & The Breach
+##  <a name="page_12" class="page-number">12</a> Non-gameplay related
 
-**When does the crowdfunding campaign for the expansions begin?** There hasn't been an official release date yet, but sometime in 2026. 
+**My game seems to be missing tokens/cards**: Check first for common misunderstandings. There are no Cursed, Blessed, and Invisible tokens. Also there is no scenario cards for scenarios 12, 18, 27, and 36. These are explained elsewhere in this FAQ. If you are still sure there's something wrong with your game, contact info@lautapelit.fi.
+
+**My scenario or rule book seems to have an error**: Some errors have been noticed after production and are fixed in future printings. They are collected in [Errata documents](https://agemonia.com/resources/) on Agemonia website. There is also  [Printable Errata Stickers](https://boardgamegeek.com/filepage/278527/printable-errata-stickers) that you can use.
+
+**My game arrived with a broken/misprinted component**: Contact info@lautapelit.fi.
+
+<div class="divider"></div>
+
+##  <a name="page_13" class="page-number">13</a> Crowdfunding campaign: Witches of Durgane & The Breach
+
+**When does the crowdfunding campaign for the expansions begin?** There hasn't been an official release date yet, but sometime in 2026.
 
 **Will the base game be available for purchase during the upcoming campaign?** There hasn't been any official information about this yet, but earlier campaigns have included the option to purchase the base game along with small add-ons, such as metal coins, plastic chips, extra dice, and Talents & Rituals. We also expect to see the previous mini-expansion New Heroes, and potentially some errata fix packs. Although unconfirmed, these are all likely candidates.
 
