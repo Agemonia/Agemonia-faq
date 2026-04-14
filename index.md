@@ -596,9 +596,9 @@ Initiative card is revealed, you may spend 1 stamina to change your Initiative t
 
 ### <a name="page_10.2" class="page-number">10.2</a> Venia
 
-**Backstab (lvl 1 Assassin): Can any pet card in the same area allow the attack to be used?** No, not all pets, as this has been updated to allow only pet figures to be used, therefore pet cards without a figure will have no effect.
+**Backstab (lvl 1 Assassin): Can any pet card in the same area allow the attack to be used?** No, not all pets, as this has been updated to allow only _pet figures_ to be used, therefore pet cards without a figure will have no effect.
 
-**Backstab (lvl 1 Assassin): Can Venia use this from an adjacent space if the targeted area is at max capacity?** No, Venia and the additional Ally or pet figure must be in the same area as the Enemy being attacked.
+**Backstab (lvl 1 Assassin): Can Venia use this from an adjacent space?** Yes, but only if the targeted area is at max capacity or if Venia attacks using a melee weapon with range 1 (in both cases the target of the attack must be in the same area as an Ally or Pet figure).
 
 **Dual Wielder + Shadow Stalker (Assassin skills):** <span class="hidden">**If Venia makes a melee attack while dual wielding two daggers, does she get +2 successes from Shadow Stalker?** Yes, each dagger gives +1.</span>
 
