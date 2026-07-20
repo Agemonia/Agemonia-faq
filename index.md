@@ -254,7 +254,7 @@ To ask additional questions check out the [BGG Forums](https://boardgamegeek.com
 
 **What is a ‘rare’ item?** The back of a rare Item card is highlighted with glinting stars, and planets, and the illustration on the front has a violet background.
 
-**Can Heroes put down a backpack item containing other items and use telekinesis to move the backpack and all its contents?** Yes.
+**Can Heroes put down a backpack item containing other items and use telekinesis to move the backpack and all its contents?** No, you may only move a backpack item with telekinesis if it is empty of other items. (update 07/2026)
 
 ## <a name="page_7.2" class="page-number">7.2</a> Items (Specific):
 
