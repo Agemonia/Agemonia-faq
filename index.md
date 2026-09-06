@@ -4,7 +4,7 @@
 
 This is an unofficial FAQ created with a collection of questions gathered from BGG and the Agemonia Discord, with the majority of the answers coming directly from the game’s designers. 
 
-*Last Updated 2026-01-30*
+*Last Updated 2026-09-06*
 
 **For information about this FAQ, see <a href="#page_0">Section 0</a>**
 
@@ -48,6 +48,7 @@ There are 3 printings of Agemonia (1st, 2nd, 3rd) and each has official errata (
 The official errata documents for all 3 printings can be found here: [Agemonia Resources](https://agemonia.com/resources/).
 ### Additional Resources
 To ask additional questions check out the [BGG Forums](https://boardgamegeek.com/boardgame/270871/agemonia/forums/0) and the [Agemonia Discord](https://discord.com/invite/6QwMXYq). There's also lots of great stuff in the [BGG Files](https://boardgamegeek.com/boardgame/270871/agemonia/files).
+[Scenario Flow Chart](https://agemonia.zachu.fi/) by Zachu.
 ### Special Thanks
 - Thank you to Max Wikström, Phil Pettifer and the rest of the Agemonia team for being so active and answering questions on BGG and Discord.
 - Thank you Zachu for helping with Github and submitting new entries.
@@ -323,6 +324,8 @@ To ask additional questions check out the [BGG Forums](https://boardgamegeek.com
 ## <a name="page_9" class="page-number">9.0</a> Scenarios:
 
 ### <a name="page_9.1" class="page-number">9.1</a> Scenarios (General):
+
+**How do I unlock scenario #?** Check out this [very handy scenario flowchart.](https://agemonia.zachu.fi/) (Thank you Zachu!)
 
 **Some scenario cards contain a symbol with the letters A/B/C/D/E in the Journey steps. What are those?** These are special locations (shown on the Campaign map as A/B/C/D/E symbols). Special locations have ongoing plots and storylines which advance each time you visit the special location.
 
