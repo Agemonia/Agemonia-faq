@@ -49,6 +49,7 @@ The official errata documents for all 3 printings can be found here: [Agemonia R
 ### Additional Resources
 To ask additional questions check out the [BGG Forums](https://boardgamegeek.com/boardgame/270871/agemonia/forums/0) and the [Agemonia Discord](https://discord.com/invite/6QwMXYq). There's also lots of great stuff in the [BGG Files](https://boardgamegeek.com/boardgame/270871/agemonia/files).
 - [Scenario Flow Chart](https://agemonia.zachu.fi/) by Zachu.
+
 ### Special Thanks
 - Thank you to Max Wikström, Phil Pettifer and the rest of the Agemonia team for being so active and answering questions on BGG and Discord.
 - Thank you Zachu for helping with Github and submitting new entries.
